@@ -1,4 +1,5 @@
 from plex import *
+from reverse_file import ReversibleTextIOWrapper
 
 
 class DjangoTemplateScanner(Scanner):
